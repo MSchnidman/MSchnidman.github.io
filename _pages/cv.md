@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics and Philosophy, Hamilton College, 2014
+* M.A. in Economics, University of Virginia, 2020
+* Ph.D in Economics, University of Virginia, 2025 (expected)
 
 Work experience
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Graduate School of Arts and Sciences Council
