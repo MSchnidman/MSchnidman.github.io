@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate TA"
 permalink: /teaching/UG-TA
 venue: "University of Virginia, Department of Economics"
-date: #2020-2022
+date: 2020-08-25
 location: "Charlottesville, VA, USA"
 ---
 
