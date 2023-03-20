@@ -4,7 +4,7 @@ collection: teaching
 type: "Leccturer"
 permalink: /teaching/UG-Lecture
 venue: "University of Virginia, Department of Economics"
-date: 2023-07
+date: #2023-07
 location: "Charlottesville, VA, USA"
 ---
 
