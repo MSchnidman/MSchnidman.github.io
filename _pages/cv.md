@@ -11,21 +11,33 @@ redirect_from:
 
 Education
 ======
+
 * B.A. in Economics and Philosophy, Hamilton College, 2014
 * M.A. in Economics, University of Virginia, 2020
 * Ph.D in Economics, University of Virginia, 2025 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2022 - Present: Research Assistant
+  * Anton Korinek, Department of Economics, University of Virginia
+
+* June 2021 - Present: Research Assistant
+  * DIPVAR, ESMT Berlin
+
+* October 2020 - October 2021: Research Assistant
+  * Amalia Miller, Department of Economics, University of Virginia
+
+
+Professional experience
+======
+
+* June 2015 - August 2019: Econometrician/Economist
+  * Postal Regulatory Commission
+
+* August 2014 - June 2015: Research Assistant
+  * Federal Deposit Insurance Corporation
+
   
 Skills
 ======
@@ -56,4 +68,7 @@ Teaching
   
 Service and leadership
 ======
-* Graduate School of Arts and Sciences Council
+
+* University of Virginia Economics Research Colloquium, Organizer, 2023
+* Graduate School of Arts and Sciences Council, Finance Committee Chair, 2020 - present
+* Graduate School of Arts and Sciences Council, Economics Department Representative, 2019 - present

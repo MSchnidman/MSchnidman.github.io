@@ -10,11 +10,6 @@ location: "Charlottesville, VA, USA"
 
 I have taught Economics 3010 (Intermediate Microeconomics)
 
-Heading 1
+Intermediate Microeconomics
 ======
 
-Heading 2
-======
-
-Heading 3
-======
