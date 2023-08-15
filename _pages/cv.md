@@ -19,7 +19,7 @@ Education
 Research experience
 ======
 
-* August 2022 - Present: Research Assistant
+* August 2022 - June 2023: Research Assistant
   * Anton Korinek, Department of Economics, University of Virginia
 
 * June 2021 - Present: Research Assistant
@@ -70,5 +70,6 @@ Service and leadership
 ======
 
 * University of Virginia Economics Research Colloquium, Organizer, 2023
-* Graduate School of Arts and Sciences Council, Finance Committee Chair, 2020 - present
-* Graduate School of Arts and Sciences Council, Economics Department Representative, 2019 - present
+* Graduate School of Arts and Sciences Council, President, 2023 - 2024
+* Graduate School of Arts and Sciences Council, Finance Committee Chair, 2020 - 2023
+* Graduate School of Arts and Sciences Council, Economics Department Representative, 2019 - 2023

@@ -12,4 +12,4 @@ I have taught Economics 3010 (Intermediate Microeconomics)
 
 Intermediate Microeconomics
 ======
-
+Intermediate Microeconomics, a course required for the Economics major, is a rigorous introduction to microeconomic theory. Over four weeks in the summer, we covered consumer theory, producer theory, market power, and general equilibrium. I was responsible for all aspects of the course, including lectures, problem sets, and exams. 

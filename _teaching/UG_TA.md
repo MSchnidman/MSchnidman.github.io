@@ -8,14 +8,18 @@ date: 2020-08-25
 location: "Charlottesville, VA, USA"
 ---
 
-At the University of Virginia, I have served as a teaching assistant for Economics 3720 (Intro to Econometrics) and Economics 4720 (Econometric Methods).
+At the University of Virginia, I have served as a teaching assistant for Economics 3720 (Intro to Econometrics), Economics 4720 (Econometric Methods), and Economics 3110 (Mathematical Microeconomics)
 
 Intro to Econometrics
 ======
-In this course, I was responsible for leading the weekly discussion sections, during which I reviewed problem sets, grading homework assignments, and holding office hours. I also helped manage course logistics, including grade distributions, responding to emails and Slack messages, and calculating final grades. The course was taught by Professor [Jonathan Colmer](https://economics.virginia.edu/faculty/jonathan-colmer).
+In this course, I was responsible for leading the weekly discussion sections, during which I reviewed problem sets. I also graded homework assignments, and held virtual office hours. Additionally, I helped manage course logistics, including grade distributions, responding to emails and Slack messages, and calculating final grades. The course was taught by Professor [Jonathan Colmer](https://economics.virginia.edu/people/profile/jmc4qg).
 
 Econometric Methods
 ======
-In this course, I was responsible for leading weekly discussion sections, in which I taught students how to implement the econometric methods covered in class through statistical programming (MATLAB and Stata). I also graded assignments and exams, held office hours, and helped manage course logistics. The course was taught by Professor [Lidia Kosenkova](https://economics.virginia.edu/faculty/lidia-kosenkova).
+In this course, I was responsible for leading weekly discussion sections, in which I taught students how to implement the econometric methods covered in class through statistical programming (MATLAB and Stata). I also graded assignments and exams, held office hours, and helped manage course logistics. The course was taught by Professor [Lidia Kosenkova](https://economics.virginia.edu/people/profile/lk7cb).
 
 My MATLAB code for the course can be found here.
+
+Mathematical Microeconomics
+======
+In Mathematical Microeconomics, I was responsible for designing and grading problem sets, as well as leading discussion sections. In these sections, I would reinforce the material covered during lectures and cover selected assignment questions. This course was taught by Professor [Maxim Engers](https://economics.virginia.edu/people/profile/mpe2m).
