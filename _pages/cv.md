@@ -19,11 +19,11 @@ Education
 Research experience
 ======
 
-* August 2022 - June 2023: Research Assistant
+* August 2022 - July 2023: Research Assistant
   * Anton Korinek, Department of Economics, University of Virginia
 
 * June 2021 - Present: Research Assistant
-  * DIPVAR, ESMT Berlin
+  * DIPVAR, ESMT Berlin and EIU
 
 * October 2020 - October 2021: Research Assistant
   * Amalia Miller, Department of Economics, University of Virginia
