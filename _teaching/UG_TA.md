@@ -4,11 +4,14 @@ collection: teaching
 type: "Undergraduate TA"
 permalink: /teaching/UG-TA
 venue: "University of Virginia, Department of Economics"
-date: 2020-08-25
+
 location: "Charlottesville, VA, USA"
 ---
 
-At the University of Virginia, I have served as a teaching assistant for Economics 3720 (Intro to Econometrics), Economics 4720 (Econometric Methods), and Economics 3110 (Mathematical Microeconomics)
+- Intro to Econometrics
+- Econometric Methods
+- Mathematical Microeconomics
+
 
 Intro to Econometrics
 ======
