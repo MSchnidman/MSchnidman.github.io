@@ -1,7 +1,7 @@
 ---
-title: "Undergraduate TA Experience"
+title: "TA Experience"
 collection: teaching
-type: "TA"
+type: "Graduate TA"
 permalink: /teaching/UG-TA
 venue: "University of Virginia, Department of Economics"
 

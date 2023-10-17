@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Lecturing Experience"
+title: "Lecturing Experience"
 collection: teaching
 type: "Lecturer"
 permalink: /teaching/UG-Lecture
