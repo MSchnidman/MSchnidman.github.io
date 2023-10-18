@@ -38,15 +38,27 @@ Professional experience
 * August 2014 - June 2015: Research Assistant
   * Federal Deposit Insurance Corporation
 
+
+Awards, Affiliations, and Grants
+======
+* University of Virginia Quantitative Collective, Graduate Affiliate, 2023 - Present
+* UVA Graduate Student Council Research Grant ($500), 2023
+* University of Virginia, Department of Economics Research and Travel Grant ($350), 2022
+* University of Virginia, University-Wide Teaching Award (Nominated), 2022
+* University of Virginia, Department of Economics Teaching Award, 2022
+* University of Virginia, Department of Economics Teaching Award, 2022
+* Hamilton College, Emerson Research Grant ($4000), 2012
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * English (Native)
+  * German (Intermediate listening, reading, writing, and speaking)
+* Programming
+  * Python
+  * Matlab
+  * R
+  * SQL
 
 Publications
 ======

@@ -21,7 +21,7 @@ Econometric Methods
 ======
 In this course, I was responsible for leading weekly discussion sections, in which I taught students how to implement the econometric methods covered in class through statistical programming (MATLAB and Stata). I also graded assignments and exams, held office hours, and helped manage course logistics. The course was taught by Professor [Lidia Kosenkova](https://economics.virginia.edu/people/profile/lk7cb).
 
-My MATLAB code for the course can be found here.
+My MATLAB code for the course can be found [here](http://MSchnidman.github.io/files/Matlab_Econometric_Methods.7z)
 
 Mathematical Microeconomics
 ======
