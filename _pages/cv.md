@@ -23,7 +23,7 @@ Research experience
   * Anton Korinek, Department of Economics, University of Virginia
 
 * June 2021 - Present: Research Assistant
-  * DIPVAR, ESMT Berlin and EIU
+  * DIPVAR, Remote
 
 * October 2020 - October 2021: Research Assistant
   * Amalia Miller, Department of Economics, University of Virginia

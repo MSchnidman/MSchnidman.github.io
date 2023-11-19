@@ -14,4 +14,4 @@ Intermediate Microeconomics
 ======
 Intermediate Microeconomics, a course required for the Economics major, is a rigorous introduction to microeconomic theory. Over four weeks in the summer, we covered consumer theory, producer theory, market power, and general equilibrium. I was responsible for all aspects of the course, including lectures, problem sets, and exams. 
 
-My syllabus is available [here](http://MSchnidman.github.io/files/Syllabus_Schnidman_3010.pdf)
+My syllabus is available [here](http://MSchnidman.github.io/files/Syllabus_Schnidman_3010.pdf), and my exams are available [here](http://MSchnidman.github.io/files/Intermediate_Microeconomics_Exams.7z)

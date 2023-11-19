@@ -25,4 +25,6 @@ My MATLAB code for the course can be found [here](http://MSchnidman.github.io/fi
 
 Mathematical Microeconomics
 ======
-In Mathematical Microeconomics, I was responsible for designing and grading problem sets, as well as leading discussion sections. In these sections, I would reinforce the material covered during lectures and cover selected assignment questions. This course was taught by Professor [Maxim Engers](https://economics.virginia.edu/people/profile/mpe2m).
+In Mathematical Microeconomics, I was responsible for designing and grading problem sets, as well as leading discussion sections. In these sections, I reinforced the material covered during lectures and cover selected assignment questions. This course was taught by Professor [Maxim Engers](https://economics.virginia.edu/people/profile/mpe2m).
+
+My assignments for this class will be available soon.
