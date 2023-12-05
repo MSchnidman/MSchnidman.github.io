@@ -12,21 +12,22 @@ redirect_from:
 Education
 ======
 
+* Ph.D in Economics, University of Virginia (UVA), 2025 (expected)
+* M.A. in Economics, UVA, 2020
 * B.A. in Economics and Philosophy, Hamilton College, 2014
-* M.A. in Economics, University of Virginia, 2020
-* Ph.D in Economics, University of Virginia, 2025 (expected)
+
 
 Research experience
 ======
 
 * August 2022 - July 2023: Research Assistant
-  * Anton Korinek, Department of Economics, University of Virginia
+  * Anton Korinek, Department of Economics, UVA
 
 * June 2021 - Present: Research Assistant
   * DIPVAR, Remote
 
 * October 2020 - October 2021: Research Assistant
-  * Amalia Miller, Department of Economics, University of Virginia
+  * Amalia Miller, Department of Economics, UVA
 
 
 Professional experience
@@ -41,13 +42,13 @@ Professional experience
 
 Awards, Affiliations, and Grants
 ======
-* University of Virginia Quantitative Collective, Graduate Affiliate, 2023 - Present
-* UVA Graduate Student Council Research Grant ($500), 2023
-* University of Virginia, Department of Economics Research and Travel Grant ($350), 2022
-* University of Virginia, University-Wide Teaching Award (Nominated), 2022
-* University of Virginia, Department of Economics Teaching Award, 2022
-* University of Virginia, Department of Economics Teaching Award, 2022
-* Hamilton College, Emerson Research Grant ($4000), 2012
+* UVA Quantitative Collective, Graduate Affiliate, 2023 - Present
+* UVA Graduate Student Council Research Grant, 2023
+* UVA, Department of Economics Research and Travel Grant, 2022
+* UVA, University-Wide Teaching Award (Nominated), 2022
+* UVA, Department of Economics Teaching Award, 2022
+* UVA, Department of Economics Teaching Award, 2022
+* Hamilton College, Emerson Research Grant, 2012
   
 Skills
 ======
@@ -78,10 +79,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 
-* University of Virginia Economics Research Colloquium, Organizer, 2023
+* UVA Economics Research Colloquium, Organizer, 2023
 * Graduate School of Arts and Sciences Council, President, 2023 - 2024
 * Graduate School of Arts and Sciences Council, Finance Committee Chair, 2020 - 2023
 * Graduate School of Arts and Sciences Council, Economics Department Representative, 2019 - 2023
