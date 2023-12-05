@@ -42,6 +42,7 @@ Professional experience
 
 Awards, Affiliations, and Grants
 ======
+* UVA Center for Teaching Excellence, Tomorrow's Professor Today, Tier 1 Certificate, 2023
 * UVA Quantitative Collective, Graduate Affiliate, 2023 - Present
 * UVA Graduate Student Council Research Grant, 2023
 * UVA, Department of Economics Research and Travel Grant, 2022
