@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<embed src="mschnidman.github.io/files/Schnidman CV 092923.pdf" width="600" height="700" type='application/pdf'> 
+<embed src="http://MSchnidman.github.io/files/Schnidman_CV.pdf" width="600" height="700" type='application/pdf'> 
 
 {% include base_path %}
 
