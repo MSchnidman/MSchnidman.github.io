@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<embed src="http://MSchnidman.github.io/files/Schnidman_CV.pdf" width="600" height="700" type='application/pdf'> 
+<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Algebra_I_Reference_Sheet.pdf" width="1000" height="1000" type="application/pdf"></object>
 
 {% include base_path %}
 
