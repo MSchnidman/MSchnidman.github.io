@@ -26,10 +26,13 @@ My MATLAB code for the course can be found [here](MSchnidman/MSchnidman.github.i
 
 Mathematical Microeconomics (ECON 3110)
 ======
-I was responsible for designing and grading problem sets, as well as leading discussion sections. In these sections, I reinforced the material covered during lectures and cover selected assignment questions. This course was taught by Professor [Maxim Engers](https://economics.virginia.edu/people/profile/mpe2m).
+I was responsible for designing and grading problem sets, as well as leading discussion sections. In these sections, I reinforced the material covered during lectures and reviewed selected assignment questions. This course was taught by Professor [Maxim Engers](https://economics.virginia.edu/people/profile/mpe2m).
 
 My assignments for this class can be found [here](MSchnidman/MSchnidman.github.io/files/Econ_3110_Assignments.zip)
 
 AI and the Future of Work (ECON 4444)
 ======
+
+I was responsible for leading weekly discussion sections, in which I expanded on the concepts covered in lectures, and gave students the opportunity to further explore the material. I also graded assignments and exams, held office hours, and helped manage course logistics.
+
 The course was taught by Professor [Anton Korinek](https://economics.virginia.edu/people/profile/ak4yh).
