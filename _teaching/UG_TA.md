@@ -22,13 +22,13 @@ Econometric Methods (ECON 4720)
 ======
 I was responsible for leading weekly discussion sections, in which I taught students how to implement the econometric methods covered in class through statistical programming (MATLAB and Stata). I also graded assignments and exams, held office hours, and helped manage course logistics. The course was taught by Professor [Lidia Kosenkova](https://economics.virginia.edu/people/profile/lk7cb).
 
-My MATLAB code for the course can be found [here](MSchnidman/MSchnidman.github.io/files/Matlab_Econometric_Methods.7z)
+My MATLAB code for the course can be found [here](https://MSchnidman.github.io/files/Matlab_Econometric_Methods.7z)
 
 Mathematical Microeconomics (ECON 3110)
 ======
 I was responsible for designing and grading problem sets, as well as leading discussion sections. In these sections, I reinforced the material covered during lectures and reviewed selected assignment questions. This course was taught by Professor [Maxim Engers](https://economics.virginia.edu/people/profile/mpe2m).
 
-My assignments for this class can be found [here](MSchnidman/MSchnidman.github.io/files/Econ_3110_Assignments.zip)
+My assignments for this class can be found [here](https://MSchnidman.github.io/files/Econ_3110_Assignments.zip)
 
 AI and the Future of Work (ECON 4444)
 ======
