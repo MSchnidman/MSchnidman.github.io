@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at the Department of Economics at the University of Virginia. My research focuses on industrial organization, with a particular interest in the economics of recommender systems and digital platforms. I am also interested in the economics of music.
+I am a Ph.D. candidate in Economics at the University of Virginia, expecting to graduate in May 2025. My research interests lie in Industrial Organization, Digital Economics and Applied Econometrics, with a particular focus on the impact of recommender systems on the music industry, as I explore in my job market paper, "Music Ex Machina: Do Recommender Systems Homogenize Music?" I also research digital platforms, media economics, and the economics of AI. 
