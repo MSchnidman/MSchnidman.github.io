@@ -33,6 +33,6 @@ My assignments for this class can be found [here](https://MSchnidman.github.io/f
 AI and the Future of Work (ECON 4444)
 ======
 
-I was responsible for leading weekly discussion sections, in which I expanded on the concepts covered in lectures, and gave students the opportunity to further explore the material. I also graded assignments and exams, held office hours, and helped manage course logistics.
+I was responsible for leading weekly discussion sections, in which I expanded on the concepts covered in lectures, and gave students the opportunity to further explore the material. I also graded assignments and exams, assisted in the development of course materials, held office hours, and helped manage course logistics.
 
 The course was taught by Professor [Anton Korinek](https://economics.virginia.edu/people/profile/ak4yh).
