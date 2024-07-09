@@ -1,5 +1,5 @@
 ---
-title: "Playing to the Algorithm: How Spotify's Recommendations Shape Song Production (Job Market Paper)"
+title: "Playing to the Algorithm: How Spotify's Recommendations Shape Music Production (Job Market Paper)"
 collection: research
 permalink: /research/music-ex-machina
 excerpt: 'This paper models how recommender systems on streaming platforms (e.g., Spotify) affect the characteristics of music record labels choose to release.'
