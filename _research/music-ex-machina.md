@@ -1,10 +1,9 @@
 ---
-title: "Playing to the Algorithm: How Spotify's Recommendations Shape Music Production"
+title: "Distributing the Windfall from Transformative Technologies (with Anton Korinek)"
 collection: research
-date: 2024-07-01
-permalink: /research/01_music-ex-machina
-paperurl: 'https://MSchnidman.github.io/files/JMP_Draft.pdf'
-excerpt: 'This paper models how recommender systems on streaming platforms (e.g., Spotify) affect the characteristics of music record labels choose to release.'
+permalink: /research/02_windfall
+excerpt: 'This paper analyzes how an actor developing a transformative technology can best distribute the resulting windfall in order to benefit humanity at large.'
+
 ---
 
 [Download the paper](https://MSchnidman.github.io/files/JMP_Draft.pdf)
