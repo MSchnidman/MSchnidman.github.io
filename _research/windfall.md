@@ -1,12 +1,7 @@
 ---
-title: "Playing to the Algorithm: How Spotify's Recommendations Shape Music Production"
+title: "Distributing the Windfall from Transformative Technologies (with Anton Korinek)"
 collection: research
-date: 2024-07-01
-permalink: /research/music-ex-machina
-paperurl: 'https://MSchnidman.github.io/files/JMP_Draft.pdf'
-excerpt: 'This paper models how recommender systems on streaming platforms (e.g., Spotify) affect the characteristics of music record labels choose to release.'
+permalink: /research/windfall
+excerpt: 'This paper analyzes how an actor developing a transformative technology can best distribute the resulting windfall in order to benefit humanity at large.'
 ---
-
-[Download the paper](https://MSchnidman.github.io/files/JMP_Draft.pdf)
-
-I examine how recommender systems have influenced the music industry and shaped music production over the last decade. Using a structural model of Spotify's recorded music industry, I analyze consumer behavior, platform recommendations, and rightsholders' decisions. Results indicate that streaming services and recommender systems correlate with a 40-second decrease in average song length on Billboard's Hot 100. The model estimates a fixed cost of $79,000 for songs entering Spotify's Top 200, with an 8% price-cost margin. Counterfactual analysis shows that without recommender systems, songs would be 50 seconds longer on average, but consumer welfare would be 13% lower. While reducing music variety, these systems have increased song quantity and overall consumer welfare.
+We are on the verge of developing transformative AI systems that promise to deliver unprecedented economic gains. This paper analyzes how an actor developing a transformative technology can best distribute the resulting windfall in order to benefit humanity at large. We develop four findings: First, instead of extracting large profits, a lab can create higher social welfare by passing the benefits of the technology to users via lower prices. Second, it can charge differential prices to redistribute benefits towards recipients who are especially in need, e.g., in poor countries or locations. Third, it can increase growth and welfare by prioritizing the use of TAI systems for R&D and investment over consumption. Fourth, a lab must pay particular attention to safety, which would be underprovided by competitive market forces.
