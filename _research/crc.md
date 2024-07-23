@@ -1,7 +1,7 @@
 ---
 title: "Coordination and the Return on Capital (with Federico Ciliberto and Alon Eizenberg)"
 collection: research
-permalink: /research/03_CRC
+permalink: /research/CRC
 excerpt: 'This paper proposes an empirical framework to set-identify competitive conduct in a cross-section of airline markets.'
 ---
 We explore how firms compete when they interact over time, as in a repeated game scenario, with a specific focus on the airline industry. In such games, the discount rate plays a critical role in determining the likelihood of firms colluding. However, this discount rate is not directly observable, and even when it's high, firms might still be in a competing (Nash) equilibrium.
