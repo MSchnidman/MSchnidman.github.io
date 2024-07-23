@@ -1,8 +1,7 @@
 ---
-title: "Media Bias and Business Models (with Jenna Blochowicz)"
+title: "Demand Estimation for Novice Art on Digital Platforms (with Ishita Chakraborty and Sharmistha Sikdar)"
 collection: research
-permalink: /research/05_media-business-bias-models
-excerpt: 'This paper examines how differences in business models affects the partisan bias of media companies.'
+permalink: /research/art
+excerpt: 'This paper uses a structural estimation of the demand for novice art to understand causal factors for such demand on digital platforms like Etsy.'
 ---
-
-Over the past fifteen years, the online news industry has weathered major upheavals in how it generates revenue and reaches readers. After a period of heavy reliance on social media platforms for distribution, many news outlets have pivoted to proprietary ad systems or doubled down on subscription-based models. At the same time, partisan distrust in media has surged, leading readers to gravitate towards sources that align with their political beliefs. We investigate how the choice of business model by newspapers affects their political coverage, and how responsive they are to the political leanings of their audience. We hypothesize that more subscription-heavy newspapers are more likely to be partisan in the direction of their subscribers. We also hypothesize that more ad-reliant news organizations are less likely to be partisan.
+We estimate demand for novice art on Etsy. We use lab-based conjoint analysis to generate data on consumer choices and use these data to build a structural model of demand for novice artwork, e.g., paintings. The counterfactuals from our model estimation will help us understand how changes in the listing characteristics of novice artwork like paintings sold on e-commerce platforms can affect demand and prices paid.

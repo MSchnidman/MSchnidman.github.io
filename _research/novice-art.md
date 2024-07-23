@@ -1,7 +1,7 @@
 ---
-title: "Demand Estimation for Novice Art on Digital Platforms (with Ishita Chakraborty and Sharmistha Sikdar)"
+title: "Distributing the Windfall from Transformative Technologies (with Anton Korinek)"
 collection: research
-permalink: /research/04_art
-excerpt: 'This paper uses a structural estimation of the demand for novice art to understand causal factors for such demand on digital platforms like Etsy.'
+permalink: /research/windfall
+excerpt: 'This paper analyzes how an actor developing a transformative technology can best distribute the resulting windfall in order to benefit humanity at large.'
 ---
-We estimate demand for novice art on Etsy. We use lab-based conjoint analysis to generate data on consumer choices and use these data to build a structural model of demand for novice artwork, e.g., paintings. The counterfactuals from our model estimation will help us understand how changes in the listing characteristics of novice artwork like paintings sold on e-commerce platforms can affect demand and prices paid.
+We are on the verge of developing transformative AI systems that promise to deliver unprecedented economic gains. This paper analyzes how an actor developing a transformative technology can best distribute the resulting windfall in order to benefit humanity at large. We develop four findings: First, instead of extracting large profits, a lab can create higher social welfare by passing the benefits of the technology to users via lower prices. Second, it can charge differential prices to redistribute benefits towards recipients who are especially in need, e.g., in poor countries or locations. Third, it can increase growth and welfare by prioritizing the use of TAI systems for R&D and investment over consumption. Fourth, a lab must pay particular attention to safety, which would be underprovided by competitive market forces.

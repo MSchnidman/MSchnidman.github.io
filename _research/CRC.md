@@ -1,15 +1,7 @@
 ---
-title: "Coordination and the Return on Capital (with Federico Ciliberto and Alon Eizenberg)"
+title: "Media Bias and Business Models (with Jenna Blochowicz)"
 collection: research
-permalink: /research/03_CRC
-excerpt: 'This paper proposes an empirical framework to set-identify competitive conduct in a cross-section of airline markets.'
+permalink: /research/media-business-bias-models
+excerpt: 'This paper examines how differences in business models affects the partisan bias of media companies.'
 ---
-We explore how firms compete when they interact over time, as in a repeated game scenario, with a specific focus on the airline industry. In such games, the discount rate plays a critical role in determining the likelihood of firms colluding. However, this discount rate is not directly observable, and even when it's high, firms might still be in a competing (Nash) equilibrium.
-
-Our approach bridges the perspectives of Bresnahan and Schmalensee, as presented in their respective chapters in the 1989 Handbook of Industrial Organization. We leverage a key observation: the discount rate is a function of the rental rate of capital, which also factors into the marginal cost of firms. Bresnahan highlighted that marginal cost is not directly observable, while Schmalensee attributed this unobservability specifically to the rental rate of capital.
-
-Our contribution lies in proposing a method to identify this rental rate. We achieve this by exploiting the fact that the same rental rate must appear in both the discount factor (influencing collusive behavior) and the marginal cost. By collecting observable data on capital and applying this dual constraint, we offer a novel approach to estimating this crucial, yet typically unobserved, variable.
-
-Our estimation approach acknowledges that firms may not collude on the monopoly price, but on other lower prices. Consequently, we identify a set of possible discount factors and rental rates of capital, along with a range of possible behaviors consistent with the data.
-
-This method not only connects two fundamental perspectives in Industrial Organization but also provides a practical tool for understanding competition dynamics in the airline industry.
+Over the past fifteen years, the online news industry has weathered major upheavals in how it generates revenue and reaches readers. After a period of heavy reliance on social media platforms for distribution, many news outlets have pivoted to proprietary ad systems or doubled down on subscription-based models. At the same time, partisan distrust in media has surged, leading readers to gravitate towards sources that align with their political beliefs. We investigate how the choice of business model by newspapers affects their political coverage, and how responsive they are to the political leanings of their audience. We hypothesize that more subscription-heavy newspapers are more likely to be partisan in the direction of their subscribers. We also hypothesize that more ad-reliant news organizations are less likely to be partisan.
