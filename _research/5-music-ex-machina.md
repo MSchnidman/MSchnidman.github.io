@@ -7,11 +7,14 @@ paperurl: 'https://MSchnidman.github.io/files/Schnidman_JMP_Draft.pdf'
 excerpt: 'This paper models how recommender systems on streaming platforms (e.g., Spotify) affect the characteristics of music record labels choose to release.'
 ---
 
-[Download the paper](https://MSchnidman.github.io/files/Schnidman_JMP_Draft_20240926.pdf)
+[Download the paper](https://MSchnidman.github.io/files/Schnidman_JMP_20241013.pdf)
+
+[Download the slides](https://MSchnidman.github.io/files/Schnidman_JMP_Presentation_20241008.pdf)
 
 I examine how recommender systems have influenced the music industry and shaped music production over the last decade. 
-Using a structural model of Spotify's recorded music industry, I analyze consumer behavior, platform recommendations, and rightsholders' decisions.
-Reduced-form results indicate that streaming services and recommender systems correlate with a 40-second decrease in average song length on Billboard's Hot 100. 
-Using my model, I estimate a fixed cost of $85,000 for songs entering Spotify's Top 200, with an 11% price-cost margin.
-Counterfactual analysis shows that without recommender systems, songs would be 10 seconds longer on average, but consumer welfare would be 9\% lower.
-While reducing music variety, these systems have increased song quantity and overall consumer welfare.
+Using a structural model of the recorded music industry, I analyze consumer behavior, platform recommendations, and rightsholder release decisions.
+I estimate a fixed cost of $80,000 for songs entering Spotify’s Top 200, with a 26% gross profit margin. 
+Counterfactual analysis shows that with randomized recommendations, fewer songs would enter the market, reducing consumer welfare by 4%.
+The songs that do enter would be 8 seconds longer on average and more heterogeneous in length.
+Popularity-based recommendations that do not account for individual taste would generate a superstar effect, increasing gross profit margins for songs that enter the market to 48%, but reducing consumer welfare by 16%.
+While recommender systems have reduced overall variety in music, they have enabled additional entry and increased consumer welfare.
