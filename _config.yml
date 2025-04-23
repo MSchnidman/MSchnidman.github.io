@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Max Schnidman"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate in Economics, focusing on Industrial Organization, recommender systems and digital platforms"
+  bio              : "Senior Researcher at Microsoft, focusing on Industrial Organization, recommender systems and digital platforms"
   location         : "Charlottesville, VA"
-  employer         : "University of Virginia"
+  employer         : "Microsoft"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "mes7jw@virginia.edu"
+  email            : "max.schnidman@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
