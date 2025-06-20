@@ -7,7 +7,7 @@ paperurl: 'https://MSchnidman.github.io/files/Schnidman_PTA_20250620.pdf'
 excerpt: 'This paper models how recommender systems on streaming platforms (e.g., Spotify) affect the characteristics of music record labels choose to release.'
 ---
 
-[Download the paper](https://MSchnidman.github.io/files/Schnidman_JMP_20241106.pdf)
+[Download the paper](https://MSchnidman.github.io/files/Schnidman_PTA_20250620.pdf)
 
 Abstract:
 
