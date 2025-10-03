@@ -1,7 +1,6 @@
 ---
 title: "Playing to the Algorithm: How Spotify's Recommendations Shape Music Production"
 collection: research
-venue: 'Job Market Paper'
 permalink: /research/music-ex-machina
 paperurl: 'https://MSchnidman.github.io/files/Schnidman_PTA_20250825.pdf'
 excerpt: 'This paper models how recommender systems on streaming platforms (e.g., Spotify) affect the characteristics of music record labels choose to release.'
