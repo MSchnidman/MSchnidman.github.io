@@ -29,7 +29,7 @@ author:
   bio              : "Senior Researcher at Microsoft, focusing on Industrial Organization, recommender systems and digital platforms"
   location         : "Seattle, WA"
   employer         : "Microsoft"
-  uri              : "https://www.mschnidman.github.io/"
+  uri              : "https://mschnidman.github.io/"
   email            : "max.schnidman@gmail.com" 
 
   # Academic websites
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "https://bsky.app/profile/maxschnidman.bsky.social"
+  bluesky          : "maxschnidman.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -65,7 +65,7 @@ author:
   google_plus      : # Username
   keybase          : # Username
   instagram        : "maxschnidman"
-  lastfm           : "https://www.last.fm/user/MaxESchnidman"
+  lastfm           : "MaxESchnidman"
   linkedin         : "maxeschnidman/"
   mastodon         : # URL
   medium           : # URL
