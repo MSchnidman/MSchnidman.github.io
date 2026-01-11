@@ -4,7 +4,7 @@ collection: publications
 category: inprogress
 permalink: /publication/novice-art
 excerpt: 'This paper uses a structural estimation of the demand for novice art to understand causal factors for such demand on digital platforms like Etsy.'
-date: 2024-01-01
+date: 2026-01-01
 coauthors: "Ishita Chakraborty and Sharmistha Sikdar"
 ---
 
