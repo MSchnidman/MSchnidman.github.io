@@ -7,10 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<object data="{{ site.url }}{{ site.baseurl }}/files/Schnidman_CV_202509.pdf" width="1000" height="1000" type="application/pdf"></object>
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+<object data="{{ site.url }}{{ site.baseurl }}/files/Schnidman_CV_202601.pdf" width="1000" height="1000" type="application/pdf"></object>
+
 
   
