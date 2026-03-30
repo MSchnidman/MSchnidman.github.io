@@ -4,12 +4,12 @@ collection: publications
 category: working
 permalink: /publication/music-ex-machina
 excerpt: 'This paper models how recommender systems on streaming platforms (e.g., Spotify) affect the characteristics of music record labels choose to release.'
-date: 2025-08-25
+date: 2026-03-29
 paperurl: '/files/Schnidman_PTA_20260328.pdf'
 #slidesurl: '/files/Schnidman_COLA_Presentation_Rev2_1610.pdf'
 ---
 
-[Download the paper](/files/Schnidman_PTA_20220328.pdf)
+[Download the paper](/files/Schnidman_PTA_20260328.pdf)
 
 ## Abstract
 
