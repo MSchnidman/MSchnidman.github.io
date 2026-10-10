@@ -1,9 +1,9 @@
 ---
-title: "Media Bias and Business Models"
+title: "The Role of Business Models on Media Bias"
 collection: publications
 category: inprogress
 permalink: /publication/media-bias-business-models
-excerpt: 'This paper examines how differences in business models affects the partisan bias of media companies.'
+excerpt: 'This paper examines how differences in business models affect the partisan bias of media companies.'
 date: 2024-01-01
 coauthors: "Jenna Blochowicz"
 ---

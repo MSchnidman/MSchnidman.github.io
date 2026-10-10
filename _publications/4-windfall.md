@@ -4,7 +4,7 @@ collection: publications
 category: inprogress
 permalink: /publication/windfall
 excerpt: 'This paper analyzes how an actor developing a transformative technology can best distribute the resulting windfall in order to benefit humanity at large.'
-date: 2024-01-01
+date: 2026-08-01
 coauthors: "Anton Korinek"
 ---
 

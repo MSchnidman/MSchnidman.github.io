@@ -4,7 +4,7 @@ collection: publications
 category: inprogress
 permalink: /publication/crc
 excerpt: 'This paper proposes an empirical framework to set-identify competitive conduct in a cross-section of airline markets.'
-date: 2025-10-13
+date: 2026-07-01
 coauthors: "Federico Ciliberto and Alon Eizenberg"
 ---
 

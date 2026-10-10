@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Max Schnidman"
 title_separator          : "-"
 name                     : &name "Max Schnidman"
-description              : &description "Personal Website"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Max Schnidman is a Senior Researcher at Microsoft's Office of the Chief Economist studying industrial organization, recommender systems, and digital platforms."
 url                      : https://MSchnidman.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # Username
+  github           : "MSchnidman"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -144,7 +144,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_description           : *description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -192,6 +192,22 @@ exclude:
   - README
   - tmp
   - vendor
+  # Unused template pages; remove a line to publish that page again
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv-json.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/terms.md
+  - _pages/year-archive.html
+  - markdown_generator
+  - "talkmap*"
 keep_files:
   - .git
   - .svn
